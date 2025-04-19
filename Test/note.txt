@@ -1,0 +1,2 @@
+*Convert .ui to .py
+    pyuic6 -x demo.py -o demo.py
